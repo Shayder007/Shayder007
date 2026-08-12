@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Banner animado com título -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shayder%20Faustino&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20ADS%20%40%20IFPI%20%7C%20IoT%20%26%20AI%20Enthusiast&descAlignY=58&descSize=16&descColor=8b949e" />
-
 <!-- Badges de status -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Shayder007&color=58a6ff&style=flat-square&label=Visualizações+do+Perfil" alt="profile views"/>
