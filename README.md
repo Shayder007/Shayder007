@@ -125,7 +125,7 @@ Coleção de projetos práticos desenvolvidos com Django, explorando criação d
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shayder%20Faustino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shayder-faustino-6a0656302)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shayder%20Faustino-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayder-faustino-6a0656302/)
 [![GitHub](https://img.shields.io/badge/GitHub-Shayder007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shayder007)
 [![Gmail](https://img.shields.io/badge/Email-shayder054%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shayder054@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-shayder___07-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shayder___07)
