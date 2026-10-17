@@ -11,7 +11,7 @@
 
 ##  Sobre Mim
 
-Olá! Sou **Shayder Faustino do Nascimento**, estudante de **Análise e Desenvolvimento de Sistemas no IFPI**, apaixonado por tecnologia, resolução de problemas e construção de soluções que geram impacto real.
+Olá! Sou **Shayder Faustino do Nascimento**, Formado em **Análise e Desenvolvimento de Sistemas no IFPI**, apaixonado por tecnologia, resolução de problemas e construção de soluções que geram impacto real.
 
 Trabalho na interseção entre **desenvolvimento de software**, **inteligência artificial** e **sistemas embarcados**, combinando programação de alto nível com projetos de hardware como Raspberry Pi Pico W e BitDogLab.
 
